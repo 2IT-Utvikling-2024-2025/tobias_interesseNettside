@@ -5,13 +5,13 @@ import './App.css'
 import MyHobbies from './MyHobbies'
 import LoggingExample from './LoggingExample'
 import ColorChanger from './ColorChanger'
+import TodoApp from './TodoApp'
 
 function App() {
 
   return (
     <>
-      <LoggingExample></LoggingExample>
-      <ColorChanger></ColorChanger>
+      <TodoApp></TodoApp>
     </>
   )
 }
